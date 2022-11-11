@@ -1,0 +1,24 @@
+h2 {
+    color: navy;
+}
+div h2:first-child {
+    color: brown;
+}
+div:last-of-type article:last-of-type h2:last-of-type {
+    color: green;
+}
+#principal {
+    color: orange;
+}
+#principal h2 {
+    color: black;
+}
+.Articulo {
+    color: yellow;
+}
+.Articulo h2 {
+    color: indigo;
+}
+#secundario article:last-child {
+    color: fuchsia;
+}

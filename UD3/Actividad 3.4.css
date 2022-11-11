@@ -1,0 +1,41 @@
+.div {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+#divIzquierda {
+    background-color: grey;
+    border-style: dotted;
+    float: left;
+    text-align: left;
+    width: 250px;
+    height: 100px;
+    margin: 15px;
+    padding: 15px;
+}
+#divDerecha {
+    background-color: grey;
+    border-style: dotted;
+    float: right;
+    text-align: right;
+    width: 250px;
+    height: 100px;
+    margin: 15px;
+    padding: 15px;
+}
+#divCentral {
+    text-align: right;
+    left: 50%;
+    top: 50%;
+    position: fixed;
+    transform: translate(-50%, -50%);
+}
+#divPie {
+    background-color: grey;
+    position: fixed;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 20px;
+    padding: 10px;
+}
