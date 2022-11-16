@@ -1,0 +1,64 @@
+h1 {
+    color: teal;
+}
+strong {
+    color: red;
+}
+.destacado {
+    color: orange;
+}
+h2 {
+    color: blue;
+}
+body>p>a {
+    color: red;
+}
+body>p>a>em {
+    color: blue;
+}
+body>p>.especial {
+    color: purple;
+}
+#adicional>p>#especial {
+    color: fuchsia;
+}
+caption {
+    color: blue;
+}
+thead {
+    color: orange;
+}
+tfoot {
+    color: red;
+}
+table>tbody>tr>.especial {
+    color: orange;
+}
+table>tbody>tr>th {
+    color: red;
+}
+table>tbody>tr>td>strong {
+    color: orange;
+}
+td, table em {
+    color: green;
+}
+table, td, th {
+    border:1px solid black;
+    border-collapse: collapse;
+}
+div {
+    color: olive;
+}
+#especial {
+    color: fuchsia;
+}
+a {
+    color: green;
+}
+div a {
+    color: green;
+}
+
+    
+
