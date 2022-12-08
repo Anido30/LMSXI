@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h3>Rellena tu CV</h3>
+    <form>
+      <fieldset>
+        <legend>Datos personales</legend>
+        Provincia <br />
+        <select>
+            <option value="" selected="selected">- selecciona -</option>
+        </select>
+        <br /><br />
+        Fecha de nacimiento <br />
+        <input type="text" maxlength="2" /> de
+        <select name="Fecha_Mes" id="Fecha_Mes">
+          <optgroup>
+            <option>Enero</option>
+            <option>Febrero</option>
+            <option>Marzo</option>
+            <option>Abril</option>
+            <option>Mayo</option>
+            <option>Junio</option>
+            <option>Julio</option>
+            <option>Agosto</option>
+            <option>Septiembre</option>
+            <option>Octubre</option>
+            <option>Noviembre</option>
+            <option>Diciembre</option>
+          </optgroup>
+        </select>
+        de
+        <input type="text" maxlength="4" />
+        <br /><br />
+        Temas de interés <br />
+        <select multiple="multiple" size="5">
+            <option value="3105">Administración de bases de datos</option>
+            <option value="3106">Análisis y programación</option>
+            <option value="3107">Arquitectura</option>
+            <option value="3108">Calidad</option>
+            <option value="3109">ERP, CRM, Business Intelligence</option>
+      </fieldset>
+    </form>
+  </body>
+</html>
