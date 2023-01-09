@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viaje>
+    <clientes>
+        <nombre></nombre>
+        <apellidos></apellidos>
+    </clientes>
+    <fechas>
+        <fecha_inicio></fecha_inicio>
+        <fecha_fin></fecha_fin>
+    </fechas>
+
+</viaje>
