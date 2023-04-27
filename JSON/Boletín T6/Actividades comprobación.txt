@@ -1,0 +1,12 @@
+1. b) eXtensible Stylesheet Language
+2. a) XSLT
+3. c) XQuery
+4. c) <value-of>
+5. c) <for-each>
+6. c) <comment>
+7. a) Hacer transformaciones
+8. d) Todas las respuestas son correctas
+9. c) <root>
+10. d) <block>
+11. c) <simple-page-master>
+12. d) Todas las respuestas son correctas

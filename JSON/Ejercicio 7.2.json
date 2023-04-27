@@ -1,0 +1,14 @@
+{
+    "Nombre": "Rembrandt",
+    "F_nacimiento": 1606,
+    "L_nacimiento": "Leiden, Países Bajos",
+    "F_defunción": 1669,
+    "L_defunción": "Ámsterdam, Países Bajos",
+    "Obras": [
+        {
+            "N_Cuadro": "Dánae",
+            "Año_creación": 1636,
+            "URL": "https://es.wikipedia.org/wiki/D%C3%A1nae_%28Rembrandt%29#/media/Archivo:Rembrandt_Harmensz._van_Rijn_026.jpg"
+        }
+    ]
+}

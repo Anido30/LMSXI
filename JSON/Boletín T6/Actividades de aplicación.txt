@@ -1,0 +1,5 @@
+13. Permite aplicar una transformación a un documento XML para obtener otro documento XML.
+14. Sirve para seleccionar diferentes partes de un documeto XML.
+15. Su función es la de describir el modo de mostrar un conjunto de datos en un soporte determinado.
+16. Se utiliza para lo mismo que para el XML.
+17.
